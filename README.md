@@ -1,6 +1,5 @@
 
-
-#ExplicacionRepo2
+#ExplicandoRepoX
 
 Proyecto para ilustrar los repositorios7
 
