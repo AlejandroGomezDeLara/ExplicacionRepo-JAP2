@@ -1,3 +1,7 @@
-prueba
+#ExplicacionRepo
 
-Añadido nuevos 3 archivos
+Proyecto para ilustrar los repositorios7
+
+Se ha incluido el archivo file1.txt
+
+Mas info...
